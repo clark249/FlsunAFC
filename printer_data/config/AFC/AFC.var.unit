@@ -12,7 +12,7 @@
             "load": true,
             "prep": true,
             "tool_loaded": false,
-            "loaded_to_hub": false,
+            "loaded_to_hub": true,
             "material": null,
             "density": 1.24,
             "diameter": 1.75,
@@ -26,7 +26,7 @@
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Calibrating",
-            "dist_hub": 175.0,
+            "dist_hub": 137.62,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
         },
