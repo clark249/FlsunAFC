@@ -72,7 +72,7 @@
             "load": true,
             "prep": true,
             "tool_loaded": false,
-            "loaded_to_hub": false,
+            "loaded_to_hub": true,
             "material": "PLA",
             "density": 1.1,
             "diameter": 1.75,
@@ -85,7 +85,7 @@
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Tool Loading",
+            "status": "Tool Loaded",
             "dist_hub": 115.0,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
